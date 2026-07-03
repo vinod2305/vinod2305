@@ -16,7 +16,7 @@ that took Lighthouse 60 → 93 and LCP 3.5s → 1.0s.
   auth & KYC flows, published npm SDKs, and pipeline orchestration (Inngest, MCP).
 
 ### Stack
-**Frontend:** React · Next.js · TypeScript · Redux · React Query · Vue · Tailwind · Styled Components
-**Backend:** Node.js · FastAPI · Python · PostgreSQL · MongoDB · REST / GraphQL
-**AI / LLM:** Anthropic & OpenAI SDKs · LangGraph · Gemini · MCP · RAG · structured outputs · LLM-as-judge evals
+**Frontend:** React · Next.js · TypeScript · Redux · React Query · Vue · Tailwind · Styled Components <br/>
+**Backend:** Node.js · FastAPI · Python · PostgreSQL · MongoDB · REST / GraphQL <br/>
+**AI / LLM:** Anthropic & OpenAI SDKs · LangGraph · Gemini · MCP · RAG · structured outputs · LLM-as-judge evals <br/>
 **Web3:** wallet auth · published DeFi swap / token SDKs (npm) · Next.js dApps
